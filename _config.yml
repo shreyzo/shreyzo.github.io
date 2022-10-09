@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Hi! I am Shreya
+title: Shreya Zode
 
 # Your name to show in the footer
 author: Shreya Zode
@@ -20,11 +20,10 @@ author: Shreya Zode
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: ""
+  Projects: "projects"
+  Resume/CV: "http://shreyzo.github.io/resume.pdf"
+# Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -49,7 +48,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-# email: "zodeshreya@gmail.com"
+# email: ""
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: shreyzo
 #  medium: yourname
