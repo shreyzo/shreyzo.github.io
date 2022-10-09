@@ -20,7 +20,7 @@ author: Shreya Zode
 ###############################################
 
 navbar-links:
-  About Me: ""
+  About Me: "home"
   Projects: "projects"
   Resume/CV: "http://shreyzo.github.io/resume.pdf"
 # Author's home: "https://deanattali.com"
